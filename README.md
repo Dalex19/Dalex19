@@ -1,5 +1,5 @@
 ```javascript
-  const me = {
+  let me = {
   name: "Alex",
   lastname: "Cruz",
   nacionality: "Nicaragua",
