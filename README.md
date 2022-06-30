@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Dalex19/Dalex19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+  const me = {
+  name: "Alex",
+  lastname: "Cruz",
+  nacionality: "Nicaragua",
+  hobbies: ["read", "programming", "walk", "listen to music"],
+  profession: "Frontend - Dev",
+  skills: ["Self-taught person", "Problem resolution", "RWD"],
+  toolkit: ["ES6", "React.Js", "TailwindCss", "daisyUi", "npm", "git & github"],
+};
+```
