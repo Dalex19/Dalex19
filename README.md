@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/alex-linarte-3537b7187) 
-[![Website](https://th.bing.com/th/id/OIP.Jgjet1P9N1I5xKYMjirNIAHaHa?pid=ImgDet&rs=1 | width=60)](https://alexportafolio-2022.firebaseapp.com/)
+[![Website](Mi sitio web)](https://alexportafolio-2022.firebaseapp.com/)
 
 
 # 💻 Tech Stack:
