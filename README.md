@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on @polpocr<br>👯 I’m looking to collaborate on React projects<br>🌱 I’m currently learning mobile development fundamentals
+🔭 I’m currently working on Personal projects<br>👯 I’m looking to collaborate on React projects<br>🌱 I’m currently learning mobile development fundamentals
 
 
 ## 🌐 Socials:
