@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/alex-linarte-3537b7187) [![Portfolio](https://img.shields.io/badge/Website-%234D4D4D.svg?style=for-the-badge&logo=web&logoColor=white
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-linarte-3537b7187/) [![Portfolio](https://img.shields.io/badge/Website-%234D4D4D.svg?style=for-the-badge&logo=web&logoColor=white
 )](https://alexportafolio-2022.firebaseapp.com/) 
 
 
